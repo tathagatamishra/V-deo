@@ -35,8 +35,19 @@ body {
   box-shadow: 0 0 30px rgb(27, 0, 0);
 }
 
+iframe {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 50%;
+  width: 60%;
+  border: 0;
+}
+
+
 .Header div {
-  background: rgb(101, 101, 101);
+  background: rgb(0, 0, 0);
   width: 15%;
   height: 50%;
   border-radius: 4px;
@@ -54,7 +65,7 @@ body {
 }
 
 .Body {
-  background: rgb(51, 47, 58);
+  background: rgb(0, 0, 0);
   width: 100%;
   height: 60%;
   z-index: 0;
@@ -76,7 +87,7 @@ body {
 
 .Video {
   z-index: 0;
-  background: rgb(59, 59, 59);
+  background: rgb(0, 0, 0);
   width: 60%;
   height: 100%;
 }

@@ -33,29 +33,22 @@ export default class App extends React.Component {
   render() {
     return (
       <div className="App">
-        {/* <div className="Header"> */}
-          <VideoList
-            onVideoSelected={this.onVideoSelected}
-            data={this.state.videosMetaInfo}
-          />
-          {/* {arrayDivs.map((num) => (
-            <div className="VideoCards">{num}</div>
-          ))} */}
-        {/* </div> */}
+        <VideoList
+          onVideoSelected={this.onVideoSelected}
+          data={this.state.videosMetaInfo}
+        />
 
         <div className="Body">
-          <div className="Description"></div>
+          <div className="Description">
+            <p>Description</p>
+          </div>
           <Videoplayer videoId={this.state.selectedVideoId} />
-          {/* <div className="Video"></div> */}
-          <div className="Comment"></div>
+          <div className="Comment">
+            <p>Comments</p>
+          </div>
         </div>
 
         <Search onSearch={this.onSearch} />
-        {/* <form className="Footer">
-          <input className="Search" type="text" />
-          &nbsp;&nbsp;&nbsp;&nbsp;
-          <button className="Btn">Search</button>
-        </form> */}
       </div>
     );
   }
