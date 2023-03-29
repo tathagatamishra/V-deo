@@ -42,7 +42,7 @@ other cool tweaks or features also can be added.
 Create an api that fetch's the video url and thumbnail from youtube and return the list.
 
 Refer to below sample API URL:
-https://api-uat.greatmanagerinstitute.com/api/v2/getTrailerList
+https://www.googleapis.com/youtube/v3
 
 **Task**
 =====
@@ -60,8 +60,8 @@ https://api-uat.greatmanagerinstitute.com/api/v2/getTrailerList
 **Goals of this Challenge**
 =====
 
-- Get to know your Knowledge of dealing with an External API
+- Dealing with an External API
 - Visualisation of Data from that API
 - Handling HTML DOM Events
 - Understanding Component communication
-- Know your Expertise of HTML/CSS
+- Expertise of HTML/CSS
