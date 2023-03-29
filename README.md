@@ -1,7 +1,11 @@
 <h1 align="center">V-deo</h1>
 <p align="center">a simple video player using react
-<br><br>
-<img width="1280" alt="Screenshot 2023-03-29 130259" src="https://user-images.githubusercontent.com/114053180/228460468-7c97597d-73ea-4df7-aa31-d0c09350b21c.png">
+<br><br><br>
+<img width="900" alt="video-player-ss" src="https://user-images.githubusercontent.com/114053180/228599028-0a6897ea-7c4f-443c-ba21-e909fbf4650c.png">
+<br><br><br>
+<img width="900" src="https://user-images.githubusercontent.com/114053180/228599139-07ec8ae9-e55e-4952-8bdb-270d2dd300d2.jpg">
+<br><br><br>
+<img width="900" alt="Screenshot 2023-03-29 130259" src="https://user-images.githubusercontent.com/114053180/228460468-7c97597d-73ea-4df7-aa31-d0c09350b21c.png">
 </p>
 <br><br>
 
