@@ -4,8 +4,8 @@ import "./App.css";
 const Videoplayer = ({ videoId }) => {
     if (!videoId) {
         return (
-            <p style={{ textAlign: "center", fontSize: "18px", fontWeight: "bold" }}>
-                Search for a video
+            <p style={{ textAlign: "center", fontSize: "30px", fontWeight: "bold" }}>
+                ▷
             </p>
         );
     }
