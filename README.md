@@ -1,11 +1,19 @@
 <h1 align="center">V-deo</h1>
 <p align="center">a simple video player using react
+<br><br>
+https://v-deo.netlify.app/
 <br><br><br>
+CURRENT STATE
+<br><br>
 <img width="900" alt="video-player-ss" src="https://user-images.githubusercontent.com/114053180/228599028-0a6897ea-7c4f-443c-ba21-e909fbf4650c.png">
 <br><br><br>
-<img width="900" src="https://user-images.githubusercontent.com/114053180/228599139-07ec8ae9-e55e-4952-8bdb-270d2dd300d2.jpg">
-<br><br><br>
+FIRST TRY
+<br><br>
 <img width="900" alt="Screenshot 2023-03-29 130259" src="https://user-images.githubusercontent.com/114053180/228460468-7c97597d-73ea-4df7-aa31-d0c09350b21c.png">
+<br><br><br>
+BLUEPRINT
+<br><br>
+<img width="900" src="https://user-images.githubusercontent.com/114053180/228599139-07ec8ae9-e55e-4952-8bdb-270d2dd300d2.jpg">
 </p>
 <br><br>
 
@@ -18,17 +26,16 @@ npm i
 npm run dev
 
 ```
-# Assignment
-**Code Challenge: Build A Movie Player**
+# Motive
+**Build A Movie Player**
 
 The Challenge is to build a movie player with image thumbnails with a playlist section and a separate section to play the selected video.
 
-Feel free to add in any other cool tweaks or features.
+other cool tweaks or features also can be added.
 
 **Tech Requirements:**
 
 - Any Tech Stack
-- But Angular 2+ is preferable.
 
 **API**
 =====
