@@ -13,12 +13,16 @@ function App() {
           <div className="VideoCards">{num}</div>
         ))}
       </div>
-      <div className="Body"></div>
-      <div className="Footer">
-        <input type="text" />
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <button>Search</button>
+      <div className="Body">
+        <div className="Description"></div>
+        <div className="Video"></div>
+        <div className="Comment"></div>
       </div>
+      <form className="Footer">
+        <input className="Search" type="text" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <button className="Btn">Search</button>
+      </form>
     </div>
   );
 }
